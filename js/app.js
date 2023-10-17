@@ -3836,7 +3836,6 @@
                 once: true,
                 scrub: 1
             },
-            opacity: .8,
             x: -8,
             stagger: .2
         });
